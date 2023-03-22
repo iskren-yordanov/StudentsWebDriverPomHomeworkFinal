@@ -5,6 +5,7 @@ namespace StudentsWebDriverPomHomework.Tests
 {
     public class BaseTest
     {
+        // a driver for the handling of requests.
         protected WebDriver driver;
 
         [SetUp]
